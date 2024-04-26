@@ -2,7 +2,7 @@
 ## 一、GitHub注册及上传
 ### 1、注册GitHub账号
 ### 2、创建仓库并上传（1）
-1.创建一个新的仓库，命名为LiDongyangDataMining，并点击Add a Readme filee按钮  
+1.创建一个新的仓库，命名为LiDongyangDataMining，并点击`Add a Readme filee`按钮  
 2.在创建好的项目中，点击Add file-->Upload files  
 3.将桌面的PPT文件拖入文件框中，即可上传成功  
 ### 3、创建仓库并上传（2）
