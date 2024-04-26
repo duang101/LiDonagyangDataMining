@@ -1,2 +1,3 @@
-# LiDongyangDataMining
-## 你还是个人了？
+# 数据挖掘作业
+## 一、GitHub注册及上传
+## 二、想学习的计算机技能
