@@ -1,18 +1,25 @@
 # 数据挖掘作业
 ## 一、GitHub注册及上传
 ### 1、注册GitHub账号
+![注册](https://github.com/duang101/LiDongyangDataMining/assets/166779115/60133c05-74a8-4e48-8dda-754e99921141)
+
 ### 2、创建仓库并上传（1）
 1.创建一个新的仓库，命名为LiDongyangDataMining，并点击`Add a Readme filee`按钮  
+![创建仓库](https://github.com/duang101/LiDongyangDataMining/assets/166779115/a92a0e1c-e645-4f42-a93d-45e4cd293d16)
+
 2.在创建好的项目中，点击`Add file` &rarr; `Upload files`  
+![上传文件](https://github.com/duang101/LiDongyangDataMining/assets/166779115/2bd66ee5-81ec-4deb-bfb5-a05c255cfe2c)
+
 3.将桌面的PPT文件拖入文件框中，即可上传成功  
 ### 3、创建仓库并上传（2）
 还可以通过本地命令行进行上传文件  
 1.创建仓库步骤同上  
 2.在新创建的仓库点击`code`&rarr;`copy url to clipboard`，将地址复制到剪切板  
 3.在本地新建一个文件夹，打开命令行后输入命令"git clone + 地址"  
-4.输入"git add 数据挖掘PPT-李东洋.pptx"，将文件添加到暂存区  
-5.输入git commit -m "增加 数据挖掘PPT-李东洋"，提交更改到本地仓库  
-6.输入"git push origin main"将更改推送到远程仓库  
+4.输入`git add "李东洋_数据挖掘PPT.pptx" `，将文件添加到暂存区  
+5.输入`git commit -m "增加PPT2" `，提交更改到本地仓库  
+6.输入`git push origin main`,将更改推送到远程仓库  
+![命令行](https://github.com/duang101/LiDongyangDataMining/assets/166779115/616e05b3-36f8-433a-9f24-3195af663c54)
 
 ## 二、想学习的计算机技能
 ### 希望学习到图神经网络解决过度平滑问题的方法或者创新方法
@@ -26,5 +33,5 @@
 ### 希望学习到将论文模块与代码对应的方法
 上课时刘老师通过已经step by step演示代码，但是对于一些其他代码我仍存有疑虑  
 例如当一些代码使用了框架，代码量增加后如何快速定位到有效代码  
-另外，对于论文中提出的模块，名字不同，如何精准定位？
-
+另外，对于论文中提出的模块，名字不同，如何精准定位？  
+## 附本文地址：https://github.com/duang101/LiDongyangDataMining
